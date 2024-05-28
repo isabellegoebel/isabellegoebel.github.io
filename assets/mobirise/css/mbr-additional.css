@@ -1367,6 +1367,66 @@ a {
 .cid-tJS6uM4N87 .mbr-section-btn {
   color: #000000;
 }
+.cid-ue0FygczBN {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #2b7a69;
+}
+.cid-ue0FygczBN .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ue0FygczBN .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 992px) {
+  .cid-ue0FygczBN .mbr-figure {
+    margin-top: 1.5rem;
+  }
+}
+.cid-ue0FygczBN .row {
+  align-items: center;
+}
+@media (min-width: 992px) {
+  .cid-ue0FygczBN .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-ue0FygczBN .media-content,
+.cid-ue0FygczBN .mbr-figure {
+  align-self: center;
+}
+.cid-ue0FygczBN .mbr-figure iframe {
+  width: 100%;
+  border-radius: 2rem;
+  overflow: hidden;
+}
+.cid-ue0FygczBN .mbr-figure {
+  border-radius: 0rem;
+  overflow: hidden;
+}
+@media (min-width: 767px) {
+  .cid-ue0FygczBN .mbr-figure {
+    border-radius: 2rem;
+  }
+}
+.cid-ue0FygczBN .mbr-section-maintitle {
+  text-align: center;
+}
+.cid-ue0FygczBN .mbr-section-title {
+  text-align: left;
+  color: #000000;
+}
+.cid-ue0FygczBN .mbr-text,
+.cid-ue0FygczBN .mbr-section-btn {
+  text-align: left;
+  color: #000000;
+}
 .cid-ud934LGpoK {
   padding-top: 4rem;
   padding-bottom: 4rem;
@@ -1386,6 +1446,12 @@ a {
 }
 .cid-ud934LGpoK .row-reverse {
   flex-direction: row-reverse;
+}
+.cid-ud934LGpoK .row {
+  flex-direction: row-reverse;
+}
+.cid-ud934LGpoK .row-reverse {
+  flex-direction: row;
 }
 @media (max-width: 991px) {
   .cid-ud934LGpoK .image-wrapper {
@@ -1468,6 +1534,25 @@ a {
 .cid-ud93avKnvu img {
   width: 100%;
   height: 100%;
+}
+.cid-udX1ad28FU {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #2b7a69;
+}
+.cid-udX1ad28FU .video-wrapper iframe {
+  width: 100%;
+}
+.cid-udX1ad28FU .mbr-section-title,
+.cid-udX1ad28FU .mbr-section-subtitle,
+.cid-udX1ad28FU .mbr-text {
+  text-align: center;
+}
+.cid-udX1ad28FU .mbr-section-title {
+  color: #000000;
+}
+.cid-udX1ad28FU .mbr-section-subtitle {
+  color: #000000;
 }
 .cid-ud93cRrmDv {
   padding-top: 5rem;
